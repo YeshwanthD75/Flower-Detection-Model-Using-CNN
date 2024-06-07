@@ -36,8 +36,8 @@ This project demonstrates the application of CNNs for image classification tasks
 
 <p align="center">
 Screenshots<br>
-<img width="839" alt="Screenshot - 1" src="https://github.com/Abhigyan126/Road-Segmentation/assets/108809711/21a0862d-e150-4249-b798-cf33206fe442"><br>
-<img width="839" alt="Screenshot - 2" src="https://github.com/Abhigyan126/Road-Segmentation/assets/108809711/b2406c63-a2e0-46df-9418-960ffffe4b24"><br>
-<img width="839" alt="Screenshot - 3" src="https://github.com/Abhigyan126/Road-Segmentation/assets/108809711/9ef69c60-8b50-4092-a089-c7c91f3ee46a"><br>
+<img width="839" alt="Screenshot - 1" src="https://github.com/YeshwanthD75/Flower-Detection-Model-Using-CNN/blob/main/Screenshots/screenshot1.png"><br>
+<img width="839" alt="Screenshot - 2" src="https://github.com/YeshwanthD75/Flower-Detection-Model-Using-CNN/blob/main/Screenshots/screenshot2.png"><br>
+<img width="839" alt="Screenshot - 3" src="https://github.com/YeshwanthD75/Flower-Detection-Model-Using-CNN/blob/main/Screenshots/screenshot3.png"><br>
 
 </p>
