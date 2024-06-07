@@ -24,12 +24,12 @@ The project involves the following steps:
 4. Prediction: The trained model can be used to predict the type of flower from new images. The prediction process includes loading and preprocessing the input image, passing it through the model, and interpreting the output to identify the flower type.
 
    
-##Key Features
+### Key Features
 
 1. Data Augmentation: Techniques like rotation, flipping, and brightness adjustment are used to augment the dataset, improving the model's robustness and generalization ability.
 2. Custom CNN Architecture: The model employs a custom CNN architecture with leaky ReLU activations to handle the non-linearity in the data, and max-pooling layers to reduce the dimensionality while retaining essential features.
 3. Real-Time Predictions: The project includes functionality to make real-time predictions on new flower images, displaying the predicted flower type along with the input image.
 
-##Conclusion
+### Conclusion
 
 This project demonstrates the application of CNNs for image classification tasks, specifically for classifying different types of flowers. The model achieves reasonable accuracy and can be further improved by experimenting with different model architectures, hyperparameters, and data augmentation techniques.
